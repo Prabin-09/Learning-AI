@@ -135,50 +135,6 @@ learning-ai/
 
 ---
 
-## 📈 Progress Tracker
-
-### Python & Data Science
-- [ ] Python Fundamentals
-- [ ] OOP
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Data Visualization
-
-### Mathematics for AI
-- [ ] Statistics
-- [ ] Probability
-- [ ] Linear Algebra
-- [ ] Calculus
-
-### Machine Learning
-- [ ] Supervised Learning
-- [ ] Unsupervised Learning
-- [ ] Reinforcement Learning
-- [ ] Scikit-Learn Projects
-
-### Deep Learning
-- [ ] Neural Networks
-- [ ] CNN
-- [ ] RNN
-- [ ] Transformers
-- [ ] PyTorch Projects
-
-### Generative AI
-- [ ] NLP
-- [ ] GANs
-- [ ] RAG
-- [ ] AI Agents
-- [ ] OpenAI APIs
-
-### AI Engineering
-- [ ] Flask
-- [ ] SQL
-- [ ] Git & GitHub
-- [ ] Docker
-- [ ] Kubernetes
-
----
-
 ## 🚀 Projects
 
 Projects completed during this journey will be added here with documentation and source code.
